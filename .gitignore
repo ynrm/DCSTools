@@ -1,0 +1,7 @@
+# Executable Files Ignore
+*
+!*/
+!*.*
+
+# Emacs tmp
+*~
